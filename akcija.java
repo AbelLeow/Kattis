@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Collections;
 
-class mymain{
+class akcija{
   public static void main(String[] args){
 
     Kattio input=new Kattio();
