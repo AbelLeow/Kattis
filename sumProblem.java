@@ -1,6 +1,6 @@
 //id: sumkindofproblem
 
-class extra{
+class sumProblem{
     public static void main(String[] args){
 
         Kattio input=new Kattio();
