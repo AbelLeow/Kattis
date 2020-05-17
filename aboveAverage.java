@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-class mymain{
+class aboveAverage{
     public static void main(String[] args){
 
         Kattio input=new Kattio();
