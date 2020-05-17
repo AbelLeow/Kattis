@@ -1,7 +1,7 @@
 //Id: 10kindsofpeople
 
 import java.util.Stack;
-class tenKinds{
+class mymain{
     public static void main(String[] args){
         Kattio input=new Kattio();
 
