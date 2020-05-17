@@ -3,7 +3,7 @@
 import java.util.Comparator;
 import java.util.Arrays;
 
-class extra{
+class sortOfSorting{
     public static void main(String[] args){
     
         Kattio input=new Kattio();
