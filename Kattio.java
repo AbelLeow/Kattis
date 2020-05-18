@@ -1,5 +1,6 @@
+//By Kattis
 /** Simple yet moderately fast I/O routines.
- *
+ * 
  * Example usage:
  *
  * Kattio io = new Kattio(System.in, System.out);
